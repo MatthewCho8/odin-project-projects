@@ -58,7 +58,7 @@
 }
 
 .textbox-2{
-    width: 65%;
+    width: 35%;
     font-size: 20px; 
     font-weight: light;
     color : #1f2937;
@@ -84,8 +84,8 @@ button {
     justify-content: center;
     align-items: center;
     font-family : hero, arial, roboto;
-    gap: 30px;
-    padding-top: 15px;
+    gap: 50px;
+    margin-top: -12px;
 }
 
 .body-image{
@@ -102,4 +102,40 @@ button {
     font-size: 16px;
     text-align: center;
     padding-top: 3px;
+}
+
+.header-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    padding-top: 25px;
+    color:#1F2937;
+    text-align: center;
+    font-family: logo, hero, roboto;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    gap: 15px;
+}
+
+.header-logo{
+    align-items:flex-start;
+    flex: 50;
+
+}
+
+.h-link{
+    margin-top: -3px;
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: hero, logo, roboto;
+    
 }
