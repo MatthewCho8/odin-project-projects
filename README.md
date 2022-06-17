@@ -9,3 +9,6 @@ More advanced HTML/CSS, flexbox
 
 ### Rock-Paper-Scissors
 Programming logic, javascript
+
+# Done for now, might return to add smaller projects to this repo
+
